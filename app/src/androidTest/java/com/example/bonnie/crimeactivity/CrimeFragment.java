@@ -12,7 +12,7 @@ import android.widget.EditText;
 /**
  * Created by Bonnie on 3/3/2016.
  */
-public class CrimeFragment extends Fragment {
+public class CrimeFragment extends Fragment{
     private Crime mCrime;
     private EditText mTitleField;
 
